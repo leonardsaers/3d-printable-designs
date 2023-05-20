@@ -6,7 +6,7 @@ This repo conatins a selection of FreeCad projects that may be of interest to a 
 
 Designes:
 
+[A wall alignment tool for paintings and frames](wall-alignment-tool-for-paintings/README.md)
+
 [Monitor Mount V-Slot Add-On](vslot-monitor-mount/README.md)
-
-
 

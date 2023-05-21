@@ -6,6 +6,8 @@ This repo conatins a selection of FreeCad projects that may be of interest to a 
 
 Designes:
 
+[Fix t-nut in 2020 profile](fix-t-nut-in-2020-profile/README.md)
+
 [Stream Camera Mount](stream-camera-mount/README.md)
 
 [A wall alignment tool for paintings and frames](wall-alignment-tool-for-paintings/README.md)

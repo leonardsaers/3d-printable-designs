@@ -14,3 +14,4 @@ Designes:
 
 [Monitor Mount V-Slot Add-On](vslot-monitor-mount/README.md)
 
+[IKEA Skådis pegboard addons](skådis/README.md)

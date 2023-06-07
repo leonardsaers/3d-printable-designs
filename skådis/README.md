@@ -1,4 +1,4 @@
-# Logi Stream Camera Mount
+# IKEA Skådis pegboard addons
 
 A collection (so far only one model) of models that are compatible with the IKEA Skådis pegboard.
 

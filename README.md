@@ -15,3 +15,5 @@ Designes:
 [Monitor Mount V-Slot Add-On](vslot-monitor-mount/README.md)
 
 [IKEA Skådis pegboard addons](skådis/README.md)
+
+[A simple gearbox](simple-gearbox/README.md)

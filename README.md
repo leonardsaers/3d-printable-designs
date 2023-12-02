@@ -12,6 +12,8 @@ Designes:
 
 [A wall alignment tool for paintings and frames](wall-alignment-tool-for-paintings/README.md)
 
+[3M compatible hook](3M-compatible-hook/README.md)
+
 [Monitor Mount V-Slot Add-On](vslot-monitor-mount/README.md)
 
 [IKEA Skådis pegboard addons](skådis/README.md)

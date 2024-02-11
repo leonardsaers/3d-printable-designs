@@ -12,7 +12,9 @@ Designes:
 
 [A wall alignment tool for paintings and frames](wall-alignment-tool-for-paintings/README.md)
 
-[3M compatible hook](3M-compatible-hook/README.md)
+[3M compatible hook](3M-command-strip-competable-designs/3M-compatible-hook/README.md)
+
+[3M compatible eyepiece holder](3M-command-strip-competable-designs/eyepiece-holder/README.md)
 
 [Monitor Mount V-Slot Add-On](vslot-monitor-mount/README.md)
 

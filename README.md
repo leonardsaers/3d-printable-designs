@@ -21,3 +21,9 @@ Designes:
 [IKEA Skådis pegboard addons](skådis/README.md)
 
 [A simple gearbox](simple-gearbox/README.md)
+
+## Remixes
+
+[An easier to print version of the Utility Blade Scraper Leg](remix/utility-blade-scraper-leg/README.md)
+
+[A stronger gear for Clerty - Mechanical Dishwasher Sign](remix/clerty-mechanical-dishwasher-sign/README.md)

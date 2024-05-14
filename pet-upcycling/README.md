@@ -1,4 +1,4 @@
-# A tool to increase the distance for plastic bottle (PET) self watering setup
+# PET self watering distance to reservoir tool
 
 A plastic bottle (PET) can easily be turned into a self watering seed starter.
 
@@ -9,4 +9,4 @@ The design also allows you to transform a bottom part of a bottle to a green hou
 
 
 
-![A distance tool for self watering PET bottle setup](images/self-watering-pet-distance-tool.jpg)
+![A distance tool for self watering PET bottle setup](./images/pet-self-watering-seed-starter.jpg)

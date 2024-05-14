@@ -1,10 +1,10 @@
 # A tool to increase the distance for plastic bottle (PET) self watering setup
 
-The corkscrew may end up close to the bottom of the water reservoir depending of the form of the plastic bottle.
+A plastic bottle (PET) can easily be turned into a self watering seed starter.
 
-This tool simply let you move the "pot part" of the bottle a bit higher so that you can fill more water in the "reservoir part" of the bottle.
+This tool can complement the basic setup by allowing fresh air to enter the reservoir part and allow for more water in the reservoir by lifting up the planting part.
 
-The design also allow you to transform a bottom part of a bottle to a "green house" part that is placed on top of the self watering system.
+The design also allows you to transform a bottom part of a bottle to a green house by placing the bottom part of the bottle on top of the planting part.
 
 
 

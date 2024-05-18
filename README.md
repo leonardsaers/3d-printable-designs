@@ -22,6 +22,9 @@ Designes:
 
 [A simple gearbox](simple-gearbox/README.md)
 
+[PET upcucling - A distance tool for self watering PET setup](pet-upcycling/README.md)
+
+
 ## Remixes
 
 [An easier to print version of the Utility Blade Scraper Leg](remix/utility-blade-scraper-leg/README.md)

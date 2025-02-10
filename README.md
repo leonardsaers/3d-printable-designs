@@ -30,3 +30,6 @@ Designes:
 [An easier to print version of the Utility Blade Scraper Leg](remix/utility-blade-scraper-leg/README.md)
 
 [A stronger gear for Clerty - Mechanical Dishwasher Sign](remix/clerty-mechanical-dishwasher-sign/README.md)
+
+[Stackable vertical laptop holder](remix/stackable-vertical-laptop-holder/README.md)
+
